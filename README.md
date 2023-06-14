@@ -20,3 +20,5 @@ Dengan menggunakan rangkaian ini, Anda dapat mengendalikan perangkat-perangkat d
 Rangkaian IoT sederhana ini merupakan langkah awal untuk membangun sistem smart home yang lebih kompleks dan dapat disesuaikan dengan kebutuhan dan preferensi Anda.
 
 PENJELASAN MENGENAI APLIKASI
+
+<img src="https://github.com/gil037/UAS_IOT/blob/main/Aplikasi/aplikasi.jpg" height="200rm">
