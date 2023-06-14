@@ -21,4 +21,4 @@ Rangkaian IoT sederhana ini merupakan langkah awal untuk membangun sistem smart 
 
 PENJELASAN MENGENAI APLIKASI
 
-<img src="https://github.com/gil037/UAS_IOT/blob/main/Aplikasi/aplikasi.jpg" height="200rm">
+<img src="https://github.com/gil037/UAS_IOT/blob/main/Aplikasi/aplikasi.jpg" height="500rm">
