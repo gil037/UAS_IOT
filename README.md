@@ -20,5 +20,10 @@ Dengan menggunakan rangkaian ini, Anda dapat mengendalikan perangkat-perangkat d
 Rangkaian IoT sederhana ini merupakan langkah awal untuk membangun sistem smart home yang lebih kompleks dan dapat disesuaikan dengan kebutuhan dan preferensi Anda.
 
 PENJELASAN MENGENAI APLIKASI
-
+<p>
 <img src="https://github.com/gil037/UAS_IOT/blob/main/Aplikasi/aplikasi.jpg" height="500rm">
+<p>
+Pada Aplikasi ini kami memonitoring Temperature dan Kelembaban (Humadity) yang kami akses dari wokwi. selain itu juga kami menambahkan fitur controlling lampu, dalam hal ini yang dapat di kontrol adalah lampu bedroom, lampu living room, lampu balcony, dan lampu kitchen. berikut tampilan dari alat berjalan dengan lancar. 
+<p>
+<img src="https://github.com/gil037/UAS_IOT/blob/main/Aplikasi/aplikasi.jpg" height="500rm">
+<p>
