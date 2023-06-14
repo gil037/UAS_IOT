@@ -19,11 +19,30 @@ Dengan menggunakan rangkaian ini, Anda dapat mengendalikan perangkat-perangkat d
 
 Rangkaian IoT sederhana ini merupakan langkah awal untuk membangun sistem smart home yang lebih kompleks dan dapat disesuaikan dengan kebutuhan dan preferensi Anda.
 
+Komponen yang dibutuhkan:
+
+1. Mikrokontroler dan Modul WiFi: ESP32
+2. Sensor-sensor: DHT untuk menentukan temperature dan kelembaban ruangan. 
+3. Smartphone Android: Gunakan smartphone Android sebagai perangkat untuk mengontrol sistem smart home, Kodular sebagai tools untuk membuat aplikasi android ini.
+4. Server atau cloud: shiftr.io
+
 PENJELASAN MENGENAI APLIKASI
 <p>
-<img src="https://github.com/gil037/UAS_IOT/blob/main/Aplikasi/aplikasi.jpg" height="500rm">
+<img src="https://github.com/gil037/UAS_IOT/blob/main/picture/aplikasi.jpg" height="500rm">
 <p>
 Pada Aplikasi ini kami memonitoring Temperature dan Kelembaban (Humadity) yang kami akses dari wokwi. selain itu juga kami menambahkan fitur controlling lampu, dalam hal ini yang dapat di kontrol adalah lampu bedroom, lampu living room, lampu balcony, dan lampu kitchen. berikut tampilan dari alat berjalan dengan lancar. 
 <p>
-<img src="https://github.com/gil037/UAS_IOT/blob/main/Aplikasi/aplikasi.jpg" height="500rm">
+<img src="https://github.com/gil037/UAS_IOT/blob/main/picture/wokwi.png" height="300rm">
+<p>
+untuk pembuatan alat nya kami tidak menggunakan alat asli, tetapi kami menggunakan simulasi iot yang free yaitu https://wokwi.com/.
+  
+untuk menampilkan data data yang diambil dari sensor akan di tampilkan pada website yang telah kami buat sendiri seperti berikut : 
+<p>
+<img src="https://github.com/gil037/UAS_IOT/blob/main/picture/web_temp.jpg"300rm">
+<img src="https://github.com/gil037/UAS_IOT/blob/main/picture/web_humadity.jpg"300rm">
+<p>
+  
+pada website kita bisa memonitoring perkembangan data sensor dan kedepannya dapat diolah menjadi dataset untuk keperluan riset. untuk aliran data sendiri sebelum menuju aplikasi dan website, dari wokwi akan melewati cloud services yang ada yaitu shiftr.io lalu dapat ditampilkan pada aplikasi dan wbsite. berikut tampilan dari aliran dan arus data :
+<p>
+<img src="https://github.com/gil037/UAS_IOT/blob/main/picture/web_temp.jpg"500rm">
 <p>
