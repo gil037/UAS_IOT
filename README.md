@@ -44,5 +44,5 @@ untuk menampilkan data data yang diambil dari sensor akan di tampilkan pada webs
   
 pada website kita bisa memonitoring perkembangan data sensor dan kedepannya dapat diolah menjadi dataset untuk keperluan riset. untuk aliran data sendiri sebelum menuju aplikasi dan website, dari wokwi akan melewati cloud services yang ada yaitu shiftr.io lalu dapat ditampilkan pada aplikasi dan wbsite. berikut tampilan dari aliran dan arus data :
 <p>
-<img src="https://github.com/gil037/UAS_IOT/blob/main/picture/web_temp.jpg"500rm">
+<img src="https://github.com/gil037/UAS_IOT/blob/main/picture/shiftr.io.jpg"500rm">
 <p>
